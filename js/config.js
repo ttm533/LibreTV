@@ -26,6 +26,36 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
+    ddzy: {
+         api: 'https://api.ddapi.cc/api.php/provide/vod',
+         name: '滴滴资源',
+         adult: true
+     },
+     115zy: {
+         api: 'https://155api.com/api.php/provide/vod',
+         name: '115资源',
+         adult: true
+     },
+     nxxzy: {
+         api: 'https://naixxzy.com/api.php/provide/vod',
+         name: '奶香香资源',
+         adult: true
+     },
+     ytzy: {
+         api: 'https://apiyutu.com/api.php/provide/vod',
+         name: '玉兔资源',
+         adult: true
+     },
+     slzy: {
+         api: 'https://slapibf.com/api.php/provide/vod',
+         name: '森林资源',
+         adult: true
+     },
+     xmmzy: {
+         api: 'https://zy.xmm.hk/api.php/provide/vod',
+         name: '小猫咪资源',
+         adult: true
+     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
@@ -109,36 +139,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    ddzy: {
-         api: 'https://api.ddapi.cc/api.php/provide/vod',
-         name: '滴滴资源',
-         adult: true
-     },
-     115zy: {
-         api: 'https://155api.com/api.php/provide/vod',
-         name: '115资源',
-         adult: true
-     },
-     nxxzy: {
-         api: 'https://naixxzy.com/api.php/provide/vod',
-         name: '奶香香资源',
-         adult: true
-     },
-     ytzy: {
-         api: 'https://apiyutu.com/api.php/provide/vod',
-         name: '玉兔资源',
-         adult: true
-     },
-     slzy: {
-         api: 'https://slapibf.com/api.php/provide/vod',
-         name: '森林资源',
-         adult: true
-     },
-     xmmzy: {
-         api: 'https://zy.xmm.hk/api.php/provide/vod',
-         name: '小猫咪资源',
-         adult: true
-     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',

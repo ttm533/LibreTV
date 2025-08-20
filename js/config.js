@@ -122,6 +122,36 @@ const API_SITES = {
     // 这些影片和背后的产业已经使数百万男女“下海”，出卖自己的身体，甚至以此为生计。
     // 而作为观众无辜吗？毫无疑问，他们促成了黄色产业链的再生产。
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
+     ckzy: {
+         api: 'https://api.ddapi.cc/api.php/provide/vod',
+         name: '滴滴资源',
+         adult: true
+     },
+     ckzy: {
+         api: 'https://155api.com/api.php/provide/vod',
+         name: '115资源',
+         adult: true
+     },
+     ckzy: {
+         api: 'https://naixxzy.com/api.php/provide/vod',
+         name: '奶香香资源',
+         adult: true
+     },
+     ckzy: {
+         api: 'https://apiyutu.com/api.php/provide/vod',
+         name: '玉兔资源',
+         adult: true
+     },
+     ckzy: {
+         api: 'https://slapibf.com/api.php/provide/vod',
+         name: '森林资源',
+         adult: true
+     },
+     ckzy: {
+         api: 'https://zy.xmm.hk/api.php/provide/vod',
+         name: '小猫咪资源',
+         adult: true
+     },
     // ckzy: {
     //     api: 'https://www.ckzy1.com',
     //     name: 'CK资源',
